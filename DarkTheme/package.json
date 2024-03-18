@@ -1,0 +1,38 @@
+{
+	"name": "DarkTheme",
+	"displayName": "DarkTheme",
+	"description": "Best dark theme for devs",
+	"version": "1.0.0",
+	"publisher": "AdityaSingh",
+	"icon": "darktheme.png",
+	"repository": {
+	  "type": "git",
+	  "url": "https://github.com/Aadi829/Darktheme"
+	},
+	"keywords": [
+	  "theme",
+	  "AdityaSingh",
+	  "DarkTheme",
+	  "BlackTheme",
+	  "Darktheme",
+	  "Aditya Singh",
+	  "darktheme",
+	  "dark theme",
+	  "darkblacktheme "
+	],
+	"engines": {
+	  "vscode": "^1.68.0"
+	},
+	"categories": [
+	  "Themes"
+	],
+	"contributes": {
+	  "themes": [
+		{
+		  "label": "DarkTheme",
+		  "uiTheme": "vs-dark",
+		  "path": ".\themes\DarkTheme-color-theme.json"
+		}
+	  ]
+	}
+  }
