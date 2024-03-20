@@ -1,7 +1,7 @@
 {
 	"name": "DarkTheme",
 	"displayName": "DarkTheme",
-	"description": "Best dark theme for devs",
+	"description": "Best dark theme for Cute Peoples only :)",
 	"version": "1.0.0",
 	"publisher": "AdityaSingh",
 	"icon": "darktheme.png",
@@ -11,14 +11,18 @@
 	},
 	"keywords": [
 	  "theme",
-	  "AdityaSingh",
+	  "AdityaKSingh",
+	  "Salesforce Theme",
+	  "LWC theme",
+	  "Theme For LWC",
+	  "Theme Salesforce",
 	  "DarkTheme",
 	  "BlackTheme",
 	  "Darktheme",
 	  "Aditya Singh",
 	  "darktheme",
 	  "dark theme",
-	  "darkblacktheme "
+	  "darkblacktheme"
 	],
 	"engines": {
 	  "vscode": "^1.68.0"
@@ -31,7 +35,7 @@
 		{
 		  "label": "DarkTheme",
 		  "uiTheme": "vs-dark",
-		  "path": ".\themes\DarkTheme-color-theme.json"
+		  "path": "./themes/DarkTheme-color-theme.json"
 		}
 	  ]
 	}

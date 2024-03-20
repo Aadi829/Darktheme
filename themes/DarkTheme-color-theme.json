@@ -3,7 +3,7 @@
 	"colors": {
 		"titleBar.activeBackground": "#1b1515",
 		"editor.background": "#000000",
-		"editor.foreground": "#0602f7",
+		"editor.foreground": "#15d1fb",
 		"editorLink.activeForeground": "#fca311",
 		"tab.activeBackground": "#6f6b6b",
 		"tab.inactiveBackground": "#000000",
@@ -11,20 +11,22 @@
 		"activityBar.background": "#0a0a0a",
 		"activityBar.foreground": "#fad867",
 		"activityBarBadge.background": "#adb909",
-		"sideBar.background": "#0a0a0a",
+		"sideBar.background": "#101010",
+		"sideBar.foreground": "#5bfd76b3",
 		"sideBar.border": "#7b631c",
 		"sideBarSectionHeader.background": "#14213d",
 		"sideBarTitle.foreground": "#0a0a0a",
 		"statusBar.background": "#0a0a0a",
 		"statusBar.debuggingBackground": "#fca3112f",
 		"statusBar.noFolderBackground": "#ff00002f",
-		"statusBar.foreground": "#fad867",
-		"button.background": "#efe8dc",
-		"button.foreground": "#efe8dc",
+		"statusBar.foreground": "#f6c115",
+		"button.background": "#b202d1",
+		"button.foreground": "#000000f3",
+		"button.hoverBackground": "#bc3cb6",
 		"commandCenter.activeBorder": "#fca311",
 		"list.focusAndSelectionOutline": "#0a0a0a",
 		"list.hoverBackground": "#fffdfd2f",
-		"list.activeSelectionBackground": "#f6f5f4af",
+		"list.activeSelectionBackground": "#f37b03af",
 		"input.border":"#fca31155",
 		"input.background": "#0c1223",
 		"editorWidget.background": "#030b1e",
@@ -45,7 +47,7 @@
 			],
 			"settings": {
 				"fontStyle": "italic",
-				"foreground": "#90e266"
+				"foreground": "#77a461"
 			}
 		},
 		{
@@ -56,7 +58,7 @@
 			],
 			"settings": {
 				"fontStyle":"bold",
-				"foreground": "#90399d"
+				"foreground": "#e44bfc"
 			}
 		},
 		{
