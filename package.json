@@ -2,41 +2,41 @@
 	"name": "DarkTheme",
 	"displayName": "DarkTheme",
 	"description": "Best dark theme for Cute Peoples only :)",
-	"version": "1.0.0",
+	"version": "1.1.0",
 	"publisher": "AdityaSingh",
 	"icon": "darktheme.png",
 	"repository": {
-	  "type": "git",
-	  "url": "https://github.com/Aadi829/Darktheme"
+		"type": "git",
+		"url": "https://github.com/Aadi829/Darktheme"
 	},
 	"keywords": [
-	  "theme",
-	  "AdityaKSingh",
-	  "Salesforce Theme",
-	  "LWC theme",
-	  "Theme For LWC",
-	  "Theme Salesforce",
-	  "DarkTheme",
-	  "BlackTheme",
-	  "Darktheme",
-	  "Aditya Singh",
-	  "darktheme",
-	  "dark theme",
-	  "darkblacktheme"
+		"theme",
+		"AdityaKSingh",
+		"Salesforce Theme",
+		"LWC theme",
+		"Theme For LWC",
+		"Theme Salesforce",
+		"DarkTheme",
+		"BlackTheme",
+		"Darktheme",
+		"Aditya Singh",
+		"darktheme",
+		"dark theme",
+		"darkblacktheme"
 	],
 	"engines": {
-	  "vscode": "^1.68.0"
+		"vscode": "^1.68.0"
 	},
 	"categories": [
-	  "Themes"
+		"Themes"
 	],
 	"contributes": {
-	  "themes": [
-		{
-		  "label": "DarkTheme",
-		  "uiTheme": "vs-dark",
-		  "path": "./themes/DarkTheme-color-theme.json"
-		}
-	  ]
+		"themes": [
+			{
+				"label": "DarkTheme",
+				"uiTheme": "vs-dark",
+				"path": "./themes/DarkTheme-color-theme.json"
+			}
+		]
 	}
-  }
+}
