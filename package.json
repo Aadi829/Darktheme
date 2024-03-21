@@ -1,6 +1,6 @@
 {
-	"name": "DarkTheme",
-	"displayName": "DarkTheme",
+	"name": "ThemeDark",
+	"displayName": "ThemeDark",
 	"description": "Best dark theme for Cute Peoples only :)",
 	"version": "1.4.0",
 	"publisher": "AdityaKSingh",
@@ -33,7 +33,7 @@
 	"contributes": {
 		"themes": [
 			{
-				"label": "DarkTheme",
+				"label": "DaThemeDark",
 				"uiTheme": "vs-dark",
 				"path": "./themes/DarkTheme-color-theme.json"
 			}
